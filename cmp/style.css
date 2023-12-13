@@ -1,0 +1,69 @@
+.container-fluid {
+    background-color: #430081;
+    height: 100vh;
+}
+
+.atas {
+    height: 65vh;
+    align-content: center;
+    background: url(img/bg-atas.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.kanan {
+    padding-top: 8%;
+}
+
+.kiri>p {
+    margin-right: 30px;
+}
+
+p, h1, h2, h5 {
+    color: #fff;
+    padding: 0px 80px;
+}
+
+.bawah {
+    align-content: center;
+}
+
+.tombol {
+    background-color: #0b1a45;
+    margin: 0;
+    height: 34.9vh;
+    padding-top: 50px;
+}
+
+.tombol:hover {
+    background-color: #061333;
+    cursor: pointer;
+}
+
+.col.bawah {
+    padding: 0 !important;
+    border: 1px solid #fff;
+    border-bottom: 0px;
+    border-left: 0px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.bundar {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    background-color: #00b9c4;
+    margin-left: 80px;
+    color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        background-size: contain;
+    }
+}
