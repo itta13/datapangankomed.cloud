@@ -14,7 +14,7 @@
     <div class="bungkus">
       <div class="row atas">
         <div class="col kiri">
-          <h1>Cloud </h1>
+          <h1>Clouds</h1>
           <h1>dataMaPo</h1>
           <p>Platform otomatisasi informasi data pangan online bidang makanan pokok</p>
         </div>
